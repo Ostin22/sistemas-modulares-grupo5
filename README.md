@@ -2,7 +2,7 @@
 
 Este repositorio contiene la implementación de cinco sistemas de automatización industrial que demuestran los principios de la **programación modular** mediante el uso efectivo de funciones y procedimientos especializados.
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 sistemas-automatizacion/
@@ -14,7 +14,7 @@ sistemas-automatizacion/
 └── README.md                   # Documentación del proyecto
 ```
 
-## 🎯 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - **Implementar programación modular**: Separación clara de responsabilidades mediante funciones especializadas
 - **Demostrar reutilización de código**: Componentes modulares que pueden ser utilizados en diferentes contextos
@@ -23,7 +23,7 @@ sistemas-automatizacion/
 
 ---
 
-## 🌡️ Sistema de Control de Temperatura en Edificio Inteligente
+## Sistema de Control de Temperatura en Edificio Inteligente
 
 ### Descripción
 Sistema automatizado que optimiza el consumo energético de un edificio inteligente ajustando la temperatura en diferentes zonas según la ocupación, horarios y condiciones climáticas externas.
@@ -56,7 +56,7 @@ Sistema de monitoreo energético que calcula y registra el consumo en tiempo rea
 
 ---
 
-## 📦 Sistema de Gestión de Inventario de Almacén
+## Sistema de Gestión de Inventario de Almacén
 
 ### Descripción
 Plataforma integral para el control de inventario que rastrea movimientos de productos, optimiza niveles de stock y automatiza el proceso de reabastecimiento.
@@ -89,7 +89,7 @@ Sistema de alertas proactivo que identifica necesidades de reabastecimiento.
 
 ---
 
-## 🚗 Sistema de Navegación para Vehículo Autónomo
+## Sistema de Navegación para Vehículo Autónomo
 
 ### Descripción
 Plataforma de navegación autónoma que integra múltiples sensores para planificación de rutas, detección de obstáculos y control adaptativo de velocidad.
@@ -123,7 +123,7 @@ Controlador adaptativo de velocidad que optimiza seguridad y eficiencia.
 
 ---
 
-## 🏭 Sistema de Optimización de Producción en Fábrica
+## Sistema de Optimización de Producción en Fábrica
 
 ### Descripción
 Plataforma de optimización industrial que maximiza la eficiencia operativa mediante monitoreo en tiempo real, mantenimiento predictivo y programación inteligente.
@@ -156,7 +156,7 @@ Algoritmo de programación que optimiza la asignación de recursos productivos.
 
 ---
 
-## 🌾 Sistema de Riego Automatizado para Agricultura
+## Sistema de Riego Automatizado para Agricultura
 
 ### Descripción
 Plataforma de agricultura de precisión que optimiza el uso de recursos hídricos mediante análisis de condiciones del suelo, pronósticos meteorológicos y necesidades específicas de cultivos.
@@ -189,7 +189,7 @@ Sistema de control distribuido para actuación de válvulas electrohidráulicas.
 
 ---
 
-## 🔧 Principios de Programación Modular Implementados
+## Principios de Programación Modular Implementados
 
 ### Separación de Responsabilidades
 Cada función tiene una responsabilidad específica y bien definida, facilitando el mantenimiento y la escalabilidad del código.
@@ -203,7 +203,7 @@ Funciones diseñadas para ser reutilizables en diferentes contextos y aplicacion
 ### Mantenibilidad
 Estructura modular que permite modificaciones y mejoras sin afectar otros componentes del sistema.
 
-## 📊 Análisis de Rendimiento
+## Análisis de Rendimiento
 
 ### Optimización por Función
 Cada módulo está optimizado para su función específica, permitiendo un rendimiento global eficiente.
@@ -214,7 +214,7 @@ La arquitectura modular facilita la adición de nuevas funcionalidades y la esca
 ### Mantenimiento Eficiente
 La separación modular reduce significativamente los tiempos de debugging y mantenimiento.
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### Requisitos del Sistema
 ```bash
@@ -245,7 +245,7 @@ python problema4_fabrica.py
 python problema5_riego.py
 ```
 
-## 📈 Resultados y Beneficios
+## Resultados y Beneficios
 
 ### Eficiencia Operacional
 Los sistemas implementados demuestran mejoras significativas en eficiencia mediante la optimización modular de procesos.
@@ -261,7 +261,7 @@ Los módulos desarrollados pueden ser adaptados y reutilizados en diferentes con
 
 ---
 
-## 📝 Conclusiones
+## Conclusiones
 
 La implementación de estos cinco sistemas demuestra las ventajas prácticas de la programación modular en el desarrollo de soluciones industriales. La separación clara de responsabilidades, las interfaces bien definidas y la reutilización de código resultan en sistemas más mantenibles, escalables y eficientes.
 
@@ -269,4 +269,8 @@ La programación modular no solo mejora la calidad del código, sino que tambié
 
 ---
 
-*Proyecto desarrollado como demostración práctica de programación modular aplicada a sistemas de automatización industrial.*
+*Proyecto desarrollado por el grupo 5 
+Alison Carrión
+Alexander Pavón
+Alejandro Barrionuevo
+Ricardo Carrión*
