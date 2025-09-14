@@ -270,7 +270,7 @@ La programación modular no solo mejora la calidad del código, sino que tambié
 ---
 
 *Proyecto desarrollado por el grupo 5 
-Alison Carrión
-Alexander Pavón
-Alejandro Barrionuevo
+Alison Carrión,
+Alexander Pavón,
+Alejandro Barrionuevo y
 Ricardo Carrión*
